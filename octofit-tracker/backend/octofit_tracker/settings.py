@@ -26,7 +26,7 @@ SECRET_KEY = "django-insecure-g6cduwu(wm@7m=7%93m7_y3-+u50gq(1=0&wgn+a*p9x7kt#pi
 DEBUG = True
 
 # Allow all hosts
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['cuddly-space-parakeet-x5p79v6xjjjj2gvp-8000.app.github.dev', 'localhost']
 
 
 # Application definition
